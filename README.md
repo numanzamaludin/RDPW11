@@ -5,7 +5,7 @@ Free Windows 11 RDP (1HOUR) - original author: Thuonghai001
 
 ## METHOD:
 
-- Go to: [Katacoda Terminal](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
+- Go to: [Katacoda Terminal (Sorry, It's not working.. this katacoda page not supported now.. I will show you how to fix it :])](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
 - Click on **"START SCENARIO"**
 - Go to **"Terminal 2"**
 
