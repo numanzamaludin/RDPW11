@@ -23,7 +23,7 @@ nohup sudo /usr/libexec/qemu-kvm -nographic -net nic -net user,hostfwd=tcp::3088
 clear
 echo "Katacoda Centos Windows 11 by TEnLOcODE (github)"
 echo Your RDP IP Address:
-curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p'
+curl --silent --show-error http://127.0.0.1:80/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p'
 echo User: Administrator
 echo Password: Thuonghai001
 echo Script by fb.com/thuong.hai.581
