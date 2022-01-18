@@ -5,13 +5,14 @@ Free Windows 11 RDP (1HOUR) - original author: Thuonghai001
 
 ## METHOD:
 
+- Fork This Repo
 - Go to: [Katacoda Terminal (Sorry, It's not working.. this katacoda page not supported now.. I will show you how to fix it :])](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
 - Click on **"START SCENARIO"**
 - Go to **"Terminal 2"**
 
 ### And paste the following commands:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/TEnLOcODE/win-11-rdp-server-1/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/ YOUR USERNAME HERE /win-11-rdp-server-1/main/run.sh`
 
 2. `chmod +x run.sh`
 
