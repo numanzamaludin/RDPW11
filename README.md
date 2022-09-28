@@ -7,8 +7,8 @@ Free Windows 11 RDP (1HOUR) - original author: Thuonghai001
 
 - Fork This Repo
 - Go to: [KataCoda Terminal Is e-o-l. You can use any linux terminal you want 😁](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
-- Click on **"START SCENARIO"**
-- Go to **"Terminal 2"**
+- ~~Click on **"START SCENARIO"**~~
+- ~~Go to **"Terminal 2"**~~
 
 ### And paste the following commands:
 
